@@ -1,0 +1,16 @@
+D:\Project Files\Github\learn-github-action\bin\Debug\net5.0\learn-github-action.exe
+D:\Project Files\Github\learn-github-action\bin\Debug\net5.0\learn-github-action.deps.json
+D:\Project Files\Github\learn-github-action\bin\Debug\net5.0\learn-github-action.runtimeconfig.json
+D:\Project Files\Github\learn-github-action\bin\Debug\net5.0\learn-github-action.runtimeconfig.dev.json
+D:\Project Files\Github\learn-github-action\bin\Debug\net5.0\learn-github-action.dll
+D:\Project Files\Github\learn-github-action\bin\Debug\net5.0\ref\learn-github-action.dll
+D:\Project Files\Github\learn-github-action\bin\Debug\net5.0\learn-github-action.pdb
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\learn-github-action.csproj.AssemblyReference.cache
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\learn-github-action.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\learn-github-action.AssemblyInfoInputs.cache
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\learn-github-action.AssemblyInfo.cs
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\learn-github-action.csproj.CoreCompileInputs.cache
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\learn-github-action.dll
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\ref\learn-github-action.dll
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\learn-github-action.pdb
+D:\Project Files\Github\learn-github-action\obj\Debug\net5.0\learn-github-action.genruntimeconfig.cache
